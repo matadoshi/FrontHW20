@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+    font-size: 30px;
+}
+
+#movie-name, #submit {
+    font-size: 30px;
+}
